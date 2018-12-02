@@ -1,0 +1,81 @@
+﻿Variable,Definition
+SalePrice,The Property's Sale Price In Dollars
+MSSubClass,The Building Class
+MSZoning,The General Zoning Classification
+LotFrontage,Linear Feet Of Street Connected To Property
+LotArea,Lot Size In Square Feet
+Street,Type Of Road Access
+Alley,Type Of Alley Access
+LotShape,General Shape Of Property
+LandContour,Flatness Of The Property
+Utilities,Type Of Utilities Available
+LotConfig,Lot Configuration
+LandSlope,Slope Of Property
+Neighborhood,Physical Locations Within Ames City Limits
+Condition1,Proximity To Main Road Or Railroad
+Condition2,Proximity To Main Road Or Railroad (If A Second Is Present)
+BldgType,Type Of Dwelling
+HouseStyle,Style Of Dwelling
+OverallQual,Overall Material And Finish Quality
+OverallCond,Overall Condition Rating
+YearBuilt,Original Construction Date
+YearRemodAdd,Remodel Date
+RoofStyle,Type Of Roof
+RoofMatl,Roof Material
+Exterior1st,Exterior Covering On House
+Exterior2nd,Exterior Covering On House (If More Than One Material)
+MasVnrType,Masonry Veneer Type
+MasVnrArea,Masonry Veneer Area In Square Feet
+ExterQual,Exterior Material Quality
+ExterCond,Present Condition Of The Material On The Exterior
+Foundation,Type Of Foundation
+BsmtQual,Height Of The Basement
+BsmtCond,General Condition Of The Basement
+BsmtExposure,Walkout Or Garden Level Basement Walls
+BsmtFinType1,Quality Of Basement Finished Area
+BsmtFinSF1,Type 1 Finished Square Feet
+BsmtFinType2,Quality Of Second Finished Area (If Present)
+BsmtFinSF2,Type 2 Finished Square Feet
+BsmtUnfSF,Unfinished Square Feet Of Basement Area
+TotalBsmtSF,Total Square Feet Of Basement Area
+Heating,Type Of Heating
+HeatingQC,Heating Quality And Condition
+CentralAir,Central Air Conditioning
+Electrical,Electrical System
+1stFlrSF,First Floor Square Feet
+2ndFlrSF,Second Floor Square Feet
+LowQualFinSF,Low Quality Finished Square Feet (All Floors)
+GrLivArea,Above Grade (Ground) Living Area Square Feet
+BsmtFullBath,Basement Full Bathrooms
+BsmtHalfBath,Basement Half Bathrooms
+FullBath,Full Bathrooms Above Grade
+HalfBath,Half Baths Above Grade
+Bedroom,Number Of Bedrooms Above Basement Level
+Kitchen,Number Of Kitchens
+KitchenQual,Kitchen Quality
+TotRmsAbvGrd,Total Rooms Above Grade (Does Not Include Bathrooms)
+Functional,Home Functionality Rating
+Fireplaces,Number Of Fireplaces
+FireplaceQu,Fireplace Quality
+GarageType,Garage Location
+GarageYrBlt,Year Garage Was Built
+GarageFinish,Interior Finish Of The Garage
+GarageCars,Size Of Garage In Car Capacity
+GarageArea,Size Of Garage In Square Feet
+GarageQual,Garage Quality
+GarageCond,Garage Condition
+PavedDrive,Paved Driveway
+WoodDeckSF,Wood Deck Area In Square Feet
+OpenPorchSF,Open Porch Area In Square Feet
+EnclosedPorch,Enclosed Porch Area In Square Feet
+3SsnPorch,Three Season Porch Area In Square Feet
+ScreenPorch,Screen Porch Area In Square Feet
+PoolArea,Pool Area In Square Feet
+PoolQC,Pool Quality
+Fence,Fence Quality
+MiscFeature,Miscellaneous Feature Not Covered In Other Categories
+MiscVal,$Value Of Miscellaneous Feature
+MoSold,Month Sold
+YrSold,Year Sold
+SaleType,Type Of Sale
+SaleCondition,Condition Of Sale
